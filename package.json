@@ -1,0 +1,14 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "React application to make appointments",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alfredo Montero",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
